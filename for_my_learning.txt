@@ -1,0 +1,4 @@
+.claude kay folder mai jo skills hai woo ksor ko use krny kayliye suer ko 
+required hain.
+
+.agent same .claude ke trhan ka folder hai for rest of the agents like codex, opencode etc
